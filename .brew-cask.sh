@@ -24,8 +24,8 @@ brew cask install vlc
 # Productivity
 brew cask install 1password
 brew cask install alfred
+brew cask install the-unarchiver
 
 # Other
 brew cask install adobe-acrobat-reader
 brew cask install sketch
-brew cask install transmit4
