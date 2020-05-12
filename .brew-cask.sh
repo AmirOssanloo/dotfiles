@@ -13,6 +13,7 @@ brew cask install whatsapp
 # Development
 brew cask install docker
 brew cask install postman
+brew cask install robo-3t
 brew cask install sequel-pro
 brew cask install sublime-text
 brew cask install visual-studio-code
