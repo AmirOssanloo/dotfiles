@@ -30,4 +30,5 @@ brew cask install the-unarchiver
 
 # Other
 brew cask install adobe-acrobat-reader
+brew cask install screenflick
 brew cask install sketch
