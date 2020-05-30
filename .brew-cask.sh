@@ -6,6 +6,7 @@ brew cask install google-chrome
 brew cask install firefox
 
 # Communication
+brew cask install discord
 brew cask install skype
 brew cask install slack
 brew cask install telegram
