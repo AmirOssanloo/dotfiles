@@ -19,6 +19,7 @@ brew cask install robo-3t
 brew cask install sequel-pro
 brew cask install sublime-text
 brew cask install visual-studio-code
+brew cask install iterm2
 
 # Media
 brew cask install spotify
